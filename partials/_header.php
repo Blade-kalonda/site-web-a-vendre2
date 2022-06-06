@@ -33,6 +33,9 @@
 		<!-- Bootstrap core CSS -->
 		<link href="assets/css/bootstrap.min.css" rel="stylesheet" />
 		<link rel="stylesheet" href="assets/css/styles.css" />
+		<!-- icon du domaine -->
+		
+		<link rel="icon" href="assets/img/logo/logo3.png">
 
 		<title><?= isset($title) ? $title : WEBSITE_NAME ?></title>
 	</head>
@@ -41,7 +44,7 @@
 			<div class="container">
 				<a class="navbar-brand text-uppercase py-3 text-primary fw-bolder" href="#">
                     <img class="img rounded-circle mx-auto" style="width: 30px; height: 30px" src="assets/img/logo/logo3.png" alt="">
-                    Collège Duke
+                    <span class="fs-6"><?= WEBSITE_NAME ?></span>
                 </a>
 				<button
 					class="navbar-toggler text-primary"

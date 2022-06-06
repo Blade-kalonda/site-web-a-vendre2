@@ -1,7 +1,7 @@
 <section class="merriweather blog-intro pt-120">
             <div class="container">
                 <div class="intro weight300 t-center">
-                    <h1 class="text-uppercase text-primary text-center">Bienvenue au College Duke</h1>
+                    <h1 class="text-uppercase text-primary text-center">Bienvenue au "Nom du site"</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa hic at omnis, placeat vitae doloremque sunt ipsa facere obcaecati voluptates doloribus tempore incidunt dolore tenetur ducimus, maxime unde recusandae nostrum.</p>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci consectetur culpa cumque distinctio eaque excepturi, exercitationem explicabo fugit incidunt ipsa nihil officiis perferendis sunt temporibus vero. Doloremque harum maiores quos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae eius facilis impedit perspiciatis quidem sapiente similique? Asperiores aut cupiditate doloremque explicabo incidunt, necessitatibus quis reiciendis saepe sequi similique tempora voluptatibus.</p>
                 </div>
@@ -69,12 +69,12 @@
                             
                         </div>
                         <div class="">
-                            <h4>S. Le Nephilim</h4>
-                            <p class="text-primary">Bloggeur Professionnel</p>
+                            <h4>Blade Kalonda</h4>
+                            <p class="text-primary">Dévéloppeur web</p>
                             <div class="social_icon">
-                                <a href="#"><i class="fab fa-facebook mx-2"></i></a>
-                                <a href="#"><i class="fab fa-twitter mx-2"></i></a>
-                                <a href="#"><i class="fab fa-github mx-2"></i></a>
+                                <a href="https://facebook.com/blade.kalonda"><i class="fab fa-facebook mx-2"></i></a>
+                                <a href="https://twitter.com/blade_kalonda"><i class="fab fa-twitter mx-2"></i></a>
+                                <a href="https://github.com/Blade-kalonda"><i class="fab fa-github mx-2"></i></a>
                             </div>
                             <p><small>
                                 Lorem ipsum dolor sit, amet consectetur, adipisicing elit. Corporis aperiam suscipit optio recusandae hic soluta perspiciatis quibusdam quod et quam nemo dolor voluptatum at, earum quia saepe iusto eum obcaecati!
