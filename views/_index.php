@@ -9,6 +9,9 @@
                         Après l'achat, le site sera personalisée selon les préférences du style de l'acheteur.
                         <a href="achat.php">Contacter le vendeur</a> dès maintenant. <br>
                         
+                        <div class="d-grid gap-2 col-10 mx-auto">
+                            <a href="achat.php" class="btn btn-primary my-2">Contacter le vendeur</a>
+                        </div>
                         <!-- <div class="socials pt-2">
                             <a href="mailto:israelbladzer@gmail.com">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-envelope mx-2" viewBox="0 0 16 16">
